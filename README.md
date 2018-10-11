@@ -1,2 +1,2 @@
 # MyRepo
-This is a exercise.
+私有 golang 素材库
